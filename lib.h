@@ -1,1 +1,2 @@
 
+bool convert(char &a);
